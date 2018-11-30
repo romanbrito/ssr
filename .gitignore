@@ -2,3 +2,5 @@
 node_modules/
 # ide
 .idea/
+# next
+.next/
