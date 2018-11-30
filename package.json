@@ -1,0 +1,35 @@
+{
+  "name": "ssr",
+  "version": "1.0.0",
+  "description": "Server side rendering with nextjs",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/romanbrito/ssr.git"
+  },
+  "keywords": [
+    "server",
+    "side",
+    "rendering",
+    "next",
+    "js",
+    "react",
+    "node"
+  ],
+  "author": "Roman Brito",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/romanbrito/ssr/issues"
+  },
+  "homepage": "https://github.com/romanbrito/ssr#readme",
+  "dependencies": {
+    "next": "^7.0.2",
+    "react": "^16.6.3",
+    "react-dom": "^16.6.3"
+  }
+}
